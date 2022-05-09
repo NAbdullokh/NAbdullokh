@@ -1,5 +1,5 @@
 [![MasterHead](https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif)]
-<h1 align="center">Hi 👋, I'm Nigmatullaev Abbdulloh</h1>
+<h1 align="center">Hi 👋, I'm Nigmatullaev Abdulloh</h1>
 <h3 align="center">I'm Front End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" />
 
